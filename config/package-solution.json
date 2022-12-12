@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "splash-page-engineering-symposium",
+    "id": "3ea56ef9-5502-4f94-a47d-3fc5054cbd1a",
+    "version": "1.0.0.5",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "Joseph LeMay",
+      "websiteUrl": "joe-lemay.com",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Splash Page Engineering Symposium"
+      },
+      "longDescription": {
+        "default": "Splash Page Symposium requires user acccept terms and conditions before proceeding."
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "splash-page-engineering-symposium Feature",
+        "description": "T",
+        "id": "53921767-6dfb-433b-8b42-460a8e6721b2",
+        "version": "1.0.0.5"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/splash-page-engineering-symposium.sppkg"
+  }
+}
